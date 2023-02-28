@@ -1,0 +1,6 @@
+transformers
+torch
+streamlit
+pysentimiento 
+tensorflow
+sentence-transformers
