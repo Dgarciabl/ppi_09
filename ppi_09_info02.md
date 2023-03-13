@@ -20,4 +20,4 @@ Django proporciona una gran cantidad de funcionalidades, como la autenticación 
 
 Django también cuenta con una comunidad activa de desarrolladores y una amplia documentación que facilita el aprendizaje y uso del framework. Debido a su robustez y flexibilidad, Django es ampliamente utilizado en la industria para la creación de sitios web y aplicaciones web en diversos ámbitos, como el comercio electrónico, la gestión de contenidos, las redes sociales, y más.
 
-Cabe resaltar que Django internamente ya hace la comunicación con la base de datos. Muchas de las funcionalidades de CRUD y de query la base de datos se hacen con el ORM de django.
+Cabe resaltar que Django internamente ya hace la comunicación con la base de datos. Muchas de las funcionalidades de CRUD y de query  a la base de datos se hacen con el ORM de django.
