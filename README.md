@@ -1,4 +1,4 @@
 Integrantes:
-- David Garcia Blandon:
+- David Garcia Blandon
 - Fredy Alberto Orozco Loaiza
-- Juan Pablo Gómez Reyes:
+- Juan Pablo Gómez Reyes
