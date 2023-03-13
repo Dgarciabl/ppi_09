@@ -13,11 +13,11 @@ Objetivo del proyecto:
 
 Información con la que cuenta para iniciar a trabajar en el proyecto: 
 
-- Conocimientos técnicos sólidos en programación en Python, uso de Django, diseño de interfaces de usuario, manejo de bases de datos relacionales, integración con APIs de Google, y seguridad informática. Es necesario saber cómo trabajar con modelos, vistas y plantillas en Django, y también tener habilidades en HTML, CSS y JavaScript para crear una interfaz de usuario atractiva y funcional. Además, se debe tener experiencia en el manejo de bases de datos relacionales y conocimiento en SQL, así como también comprender cómo utilizar las APIs de Google para desarrolladores.
+- Conocimientos técnicos sólidos en programación en Python, uso de Django, diseño de interfaces de usuario, manejo de bases de datos relacionales, y seguridad informática. Es necesario saber cómo trabajar con modelos, vistas y plantillas en Django, y también tener habilidades en HTML, CSS y JavaScript para crear una interfaz de usuario atractiva y funcional. Además, se debe tener experiencia en el manejo de bases de datos relacionales y conocimiento en SQL.
 
 ¿Cómo obtendrá el aplicativo la información para operar (entradas o inputs)?
 
-- Los usuarios ingresarán su correo electrónico y contraseña en la página de inicio de sesión para autenticarse y acceder a la aplicación. Además, en la página de configuración, los usuarios seleccionarán su programa académico y las asignaturas que están cursando. Esto permitirá la creación de grupos basados en asignaturas y programa académico, y los usuarios podrán programar sesiones de estudio con fecha, hora y duración. Además, el aplicativo se integrará con Google Meet y Google Calendar para programar videollamadas y eventos de estudio.
+- Los usuarios ingresarán su correo electrónico y contraseña en la página de inicio de sesión para autenticarse y acceder a la aplicación. Además, en la página de configuración, los usuarios seleccionarán su programa académico y las asignaturas que están cursando. Esto permitirá la creación de grupos basados en asignaturas y programa académico, y los usuarios podrán programar sesiones de estudio con fecha, hora y duración.
 
 - Los usuarios también podrán compartir notas y archivos relacionados con sus asignaturas de estudio, y hacer preguntas y respuestas sobre temas específicos. Los usuarios podrán subir archivos en formato PDF, Word, Excel, Powerpoint, etc. para compartir con otros miembros del grupo de estudio.
 
