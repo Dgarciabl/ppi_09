@@ -24,7 +24,7 @@ Información con la que cuenta para iniciar a trabajar en el proyecto:
 ¿Qué resultados de salida generará el aplicativo cuando sea ejecutado (salidas o outputs)?
 
 - La aplicación generará la información del grupo de estudio, incluyendo detalles de las sesiones programadas, chat y seguimiento del progreso. Los usuarios también podrán ver y descargar notas y archivos compartidos, así como hacer preguntas y respuestas sobre temas específicos.
-Además, permitirá a los usuarios crear eventos en Google Calendar con una videollamada de Google Meet incluida. Los usuarios podrán llevar un registro de su progreso individual, incluyendo las notas de exámenes y tareas, así como también la cantidad de tiempo que dedican al estudio.
+Los usuarios podrán llevar un registro de su progreso individual, incluyendo las notas de exámenes y tareas, así como también la cantidad de tiempo que dedican al estudio.
 
 ¿Qué cálculos o procesos debe realizar el aplicativo para convertir las entradas en salidas?
 
@@ -32,7 +32,6 @@ Además, permitirá a los usuarios crear eventos en Google Calendar con una vide
 - Creación de grupos de estudio basados en asignaturas y programa académico
 - Unión a grupos de estudio existentes
 - Programación de sesiones de estudio con fecha, hora y duración definidas
-- Integración con Google Meet y Google Calendar para programar videollamadas y eventos
 - Compartir notas y archivos relacionados con las asignaturas
 - Preguntas y respuestas sobre temas específicos
 - Mostrar información del grupo de estudio, incluyendo detalles de las sesiones programadas, chat.
