@@ -35,3 +35,11 @@ Los usuarios podrán llevar un registro de su progreso individual, incluyendo la
 - Compartir notas y archivos relacionados con las asignaturas
 - Preguntas y respuestas sobre temas específicos
 - Mostrar información del grupo de estudio, incluyendo detalles de las sesiones programadas, chat.
+
+# Instalación del proyecto.
+Instalamos los paquetes que se necesitan
+```
+1.  pip install pip-tools
+2.  pip-compile requierements.in
+3.  pip install -r requierements.txt
+```

@@ -1,0 +1,5 @@
+django
+djangorestframework
+pandas
+djangorestframework-simplejwt
+django-extensions
