@@ -1,5 +1,8 @@
 django
 djangorestframework
 pandas
+djoser
+social-auth-app-django
 djangorestframework-simplejwt
 django-extensions
+Pillow

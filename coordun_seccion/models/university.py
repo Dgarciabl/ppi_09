@@ -1,7 +1,7 @@
 from django.db import models
-
+from django.contrib.auth.models import User
 from .model_base import CoordBaseModel
-from .users import User
+
 
 class Degree(CoordBaseModel):
     """Degree model."""
@@ -36,7 +36,8 @@ class Students(CoordBaseModel):
     degree = models.ForeignKey(Degree, on_delete=models.CASCADE)
     situation = models.CharField(
         choices=choice_user,
-        max_length=1,
+        max_length=9,
+        default=STUDENT,
     )
     
     def __str__(self):
