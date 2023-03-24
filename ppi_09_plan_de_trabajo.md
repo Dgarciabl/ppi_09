@@ -2,7 +2,7 @@
 
 ## Informe 03: 13 horas del viernes 23 de marzo.
 
-* Realizar la planeacion de las actividades y el cronograma de los informes.
+* Realizar la planeación de las actividades y el cronograma de los informes.
 * Diseñar la arquitectura básica de la base de datos del sistema.
 * Configurar el entorno de desarrollo y preparar el ambiente de trabajo.
 * Crear una aplicación Django básica y probar su funcionamiento.
