@@ -2,8 +2,8 @@
 
 ## Informe 03: 13 horas del viernes 23 de marzo.
 
-* Revisar la documentación del proyecto y entender los objetivos y alcances del mismo.
-* Estudiar los requisitos de la aplicación y diseñar la arquitectura básica del sistema.
+* Realizar la planeacion de las actividades y el cronograma de los informes.
+* Diseñar la arquitectura básica de la base de datos del sistema.
 * Configurar el entorno de desarrollo y preparar el ambiente de trabajo.
 * Crear una aplicación Django básica y probar su funcionamiento.
 * Preparar el informe 03, que debe contener un "Hola, mundo" de la aplicación que van a desarrollar.
