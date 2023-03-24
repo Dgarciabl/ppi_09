@@ -7,6 +7,6 @@ class Event(models.group):
   descripcion=models.TextField(blank=True,null=True)
   ubicacion=models.CharField(max_length=200)
   fecha_y_hora=models.DateTimeField(auto_now=True)
-  asistentes=models.ManyToManyField(User,related_name="attendees",through='Attendees')
+  asistentes=models.ManyToManyField(User,related_name="asistentes",through='asistentes')
   def __str__(self):
     return self.tema
