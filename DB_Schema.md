@@ -57,6 +57,6 @@
 * cod sesion (clave foranea)
 * estudiante (clave foranea)
 
-# Amista (Estudiante X Estudiante)
+# Amistad (Estudiante X Estudiante)
 * Estudiante 1 (clave foranea)
 * Estudiante 2 (clave foranea)
