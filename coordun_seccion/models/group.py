@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 
-class Event(models.Model):
+class Group(models.Model):
   topic=models.CharField(max_length=250)
   creator=models.ForeignKey(User,on_delete=models.CASCADE,related_name="creator")
   description=models.TextField(blank=True,null=True)
