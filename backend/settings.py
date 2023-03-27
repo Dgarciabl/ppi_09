@@ -157,3 +157,5 @@ REST_FRAMEWORK = {
 SIMPLE_JWT = {
    'AUTH_HEADER_TYPES': ('JWT',),
 }
+
+STATIC_ROOT = path.join(BASE_DIR, "static")
