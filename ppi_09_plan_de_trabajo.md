@@ -14,14 +14,13 @@
 * Implementar una página de configuración que permita a los usuarios seleccionar su programa académico y las asignaturas que están cursando.
 * Implementar la funcionalidad de creación de grupos de estudio basados en asignaturas.
 * Implementar la funcionalidad de programación de sesiones de estudio con fecha, hora y duración definidas.
-* Implementar la funcionalidad de compartir notas y archivos relacionados con las asignaturas.
 * Implementar la funcionalidad de preguntas y respuestas sobre temas específicos.
 * Realizar pruebas y depuración de la aplicación.
 * Preparar el informe 04, que debe mostrar el avance en el desarrollo de la aplicación.
 
 ## Informe 05: 13 horas del viernes 14 de abril.
 
-
+* Implementar la funcionalidad de compartir notas y archivos en una sesion de estudio.
 * Implementar la funcionalidad de unión a grupos de estudio existentes.
 * Implementar la funcionalidad de chat entre los miembros del grupo de estudio.
 * Implementar la funcionalidad de seguimiento del progreso individual de los usuarios.
