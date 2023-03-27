@@ -24,7 +24,6 @@
 * Implementar la funcionalidad de compartir notas y archivos en un grupo de estudio.
 * Implementar la funcionalidad de unión a grupos de estudio existentes.
 * Implementar la funcionalidad de chat entre los miembros del grupo de estudio.
-* Implementar la funcionalidad de seguimiento del progreso individual de los usuarios.
 * Realizar pruebas y depuración de la aplicación.
 * Preparar el informe 05, que debe mostrar el avance en el desarrollo de la aplicación.
 
