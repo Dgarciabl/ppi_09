@@ -21,6 +21,7 @@
 ## Informe 05: 13 horas del viernes 14 de abril.
 
 * Implementar la funcionalidad de compartir notas y archivos en una sesion de estudio.
+* Implementar la funcionalidad de compartir notas y archivos en un grupo de estudio.
 * Implementar la funcionalidad de unión a grupos de estudio existentes.
 * Implementar la funcionalidad de chat entre los miembros del grupo de estudio.
 * Implementar la funcionalidad de seguimiento del progreso individual de los usuarios.
