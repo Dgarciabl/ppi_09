@@ -11,7 +11,7 @@
 ## Informe 04: 13 horas del viernes 31 de marzo.
 
 * Implementar una página de inicio de sesión que permita autenticar a los usuarios.
-* Implementar una página de configuración que permita a los usuarios seleccionar su programa académico y las asignaturas que están cursando.
+* Implementar una página de configuración que permita a los usuarios seleccionar su programa académico.
 * Implementar la funcionalidad de creación de grupos de estudio basados en asignaturas.
 * Implementar la funcionalidad de programación de sesiones de estudio con fecha, hora y duración definidas.
 * Implementar la funcionalidad de preguntas y respuestas sobre temas específicos.
